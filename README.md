@@ -1,5 +1,15 @@
 # Hi there! Welcome to my repo 👋
 
+Feel free to browse around :D
+
+- 🔭 I’m currently working on a few things (will update soon!)
+- 🌱 I’m currently learning about Data Science through the HyperionDev Bootcamp
+- 👯 I’m looking to collaborate on AI projects 
+- 🤔 I’m looking for help with Data Science and Software Engineering fundamentals
+- 💬 Ask me about Product Management, Building 0-1 products and no-code
+- 📫 How to reach me: b.ngwamah@gmail.com
+
+
 <!--
 **B-ngwamah/B-ngwamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
